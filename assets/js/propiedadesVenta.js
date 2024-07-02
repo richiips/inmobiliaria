@@ -33,15 +33,15 @@ const propiedadesVenta = [
     pets: true
 },
 {
-    nombre: 'Apartamento de lujo en zona exclusiva',
-    src: 'https://fotos.perfil.com/2018/09/21/trim/950/534/nueva-york-09212018-366965.jpg',
-    descripcion: 'Este apartamento de lujo está ubicado en una exclusiva zona residencial',
-    ubicacion: '123 Luxury Lane, Prestige Suburb, CA 45678',
-    habitaciones: 4,
-    banos: 4,
-    costo: 5.000,
+    nombre: 'Super Mega Casita en la playa',
+    src: 'https://www.chilevision.cl/chilevision/site/artic/20181227/imag/foto_0000000120181227120911/casas_en_la_playa_en_yucatan_2712.jpg',
+    descripcion: 'La casita está ubicada en el mejor sector de Viña del Mar',
+    ubicacion: '123 Av Evergreen, Viña del mar',
+    habitaciones: 10,
+    banos: 8,
+    costo: 3.000,
     smoke: true,
-    pets: false
+    pets: true
 }
 ];
 
